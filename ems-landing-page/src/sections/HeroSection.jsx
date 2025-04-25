@@ -28,11 +28,11 @@ function HeroSection() {
           </div>
           <div className="flex items-center justify-center">
             <img
-              src="https://i.postimg.cc/J06hr8fH/Chat-GPT-Image-Apr-10-2025-01-58-15-AM.png"
+              src="https://thumbs.dreamstime.com/b/campus-events-college-teacher-color-icon-vector-illustration-sign-isolated-symbol-298338802.jpg"
               width={550}
               height={550}
               alt="Campus Events Dashboard"
-              className="rounded-lg object-cover"
+              className="rounded-lg object-cover mix-blend-multiply"
             />
           </div>
         </div>

@@ -17,7 +17,7 @@ function TestimonialsSection() {
             <CardHeader>
               <div className="flex items-center gap-4">
                 <img
-                  src="/placeholder.svg"
+                  src="https://cdn2.iconfinder.com/data/icons/circle-avatars-1/128/050_girl_avatar_profile_woman_suit_student_officer-512.png"
                   width={60}
                   height={60}
                   alt="Student"
@@ -40,7 +40,7 @@ function TestimonialsSection() {
             <CardHeader>
               <div className="flex items-center gap-4">
                 <img
-                  src="/placeholder.svg"
+                  src="https://img.freepik.com/premium-vector/male-face-avatar-icon-set-flat-design-social-media-profiles_1281173-3806.jpg?semt=ais_hybrid&w=740"
                   width={60}
                   height={60}
                   alt="Student"
@@ -63,7 +63,7 @@ function TestimonialsSection() {
             <CardHeader>
               <div className="flex items-center gap-4">
                 <img
-                  src="/placeholder.svg"
+                  src="https://t4.ftcdn.net/jpg/02/79/66/93/360_F_279669366_Lk12QalYQKMczLEa4ySjhaLtx1M2u7e6.jpg"
                   width={60}
                   height={60}
                   alt="Student"

@@ -49,7 +49,7 @@ function RolesSection() {
                 </div>
                 <div className="flex items-center justify-center">
                   <img
-                    src="https://i.postimg.cc/tR59PFrq/graduating-student.png"
+                    src="https://cdn-icons-png.flaticon.com/512/4196/4196591.png"
                     width={300}
                     height={300}
                     alt="Student Dashboard"
@@ -86,7 +86,7 @@ function RolesSection() {
                 </div>
                 <div className="flex items-center justify-center">
                   <img
-                    src="https://i.postimg.cc/kXXxCFVL/organize.png"
+                    src="https://cdn-icons-png.flaticon.com/512/4098/4098840.png"
                     width={300}
                     height={300}
                     alt="Organizer Dashboard"
@@ -123,7 +123,7 @@ function RolesSection() {
                 </div>
                 <div className="flex items-center justify-center">
                   <img
-                    src="https://i.postimg.cc/y6TF2rNF/blogger.png"
+                    src="https://cdn-icons-png.flaticon.com/512/17003/17003310.png"
                     width={300}
                     height={300}
                     alt="Admin Dashboard"
